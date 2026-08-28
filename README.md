@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0010-regular-expression-matching) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
