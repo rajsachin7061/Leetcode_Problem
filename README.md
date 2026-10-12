@@ -18,6 +18,7 @@
 | [0005-longest-palindromic-substring](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
