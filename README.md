@@ -58,4 +58,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
