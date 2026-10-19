@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0029-divide-two-integers) |
+| [2235-add-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
