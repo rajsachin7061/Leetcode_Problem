@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0088-merge-sorted-array) |
+| [0494-target-sum](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0010-regular-expression-matching) |
+| [0494-target-sum](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0494-target-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -69,4 +71,16 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0029-divide-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
