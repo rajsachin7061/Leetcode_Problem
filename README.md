@@ -68,11 +68,13 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0029-divide-two-integers) |
+| [0371-sum-of-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0371-sum-of-two-integers) |
 | [2235-add-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0029-divide-two-integers) |
+| [0371-sum-of-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
 |  |
 | ------- |
