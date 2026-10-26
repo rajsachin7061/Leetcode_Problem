@@ -60,6 +60,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0035-search-insert-position) |
+| [0400-nth-digit](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0029-divide-two-integers) |
 | [0371-sum-of-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0371-sum-of-two-integers) |
+| [0400-nth-digit](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0400-nth-digit) |
 | [2235-add-two-integers](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
