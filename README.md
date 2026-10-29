@@ -26,6 +26,7 @@
 | [0014-longest-common-prefix](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0402-remove-k-digits) |
 ## Trie
 |  |
 | ------- |
@@ -96,4 +97,13 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0402-remove-k-digits) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/rajsachin7061/Leetcode_Problem/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
